@@ -13,6 +13,6 @@ config.codekit
 *.map
 *.swp
 src/node_modules
-副本产品库.xls
+*.xls
 src/static/js/test/test-main.js
-build/.module-cache/*
+build/.module-cache/
